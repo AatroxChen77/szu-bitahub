@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+*.partial
+*.partial.*
+.staging-*
+.bita/
+*secret*
+*token*
+web_*template*.yaml
+rendered*.yaml
