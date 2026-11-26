@@ -1,6 +1,6 @@
 # `szu-bitahub`
 
-面向**深圳大学智算中心（SZU BitaHub）**的可复用 Agent Skill 与独立命令行辅助脚本集合，覆盖从首次安装 `bita` CLI、零 Docker 环境准备、数据集与 Zero-Tar 不可变代码发布、Web YAML 渲染提交、启动健康检查到结果 SHA-256 校验与回收的完整科研训练工作流。
+面向深圳大学智算中心（SZU BitaHub）的可复用 Agent Skill 与独立命令行辅助脚本集合，覆盖从首次安装 `bita` CLI、零 Docker 环境准备、数据集与 Zero-Tar 不可变代码发布、Web YAML 渲染提交、启动健康检查到结果 SHA-256 校验与回收的完整科研训练工作流。
 
 优先面向 Linux 工作站与共享服务器（无需 `sudo` 权限），同时提供 Windows 与 macOS 的 `bita` 安装指引，兼容 Antigravity、Claude Code、Codex CLI 等主流编码 Agent。
 
